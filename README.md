@@ -1,7 +1,6 @@
 # 🧬 Biological Age Predictor
 
-## Author:
-Sunan Gao, Siyu Zou
+**Author: **Sunan Gao, Siyu Zou
 
 [![Streamlit App](https://img.shields.io/badge/Launch%20App-Streamlit-brightgreen)](https://ba-calculator.streamlit.app/)
 
@@ -36,10 +35,14 @@ No installation needed — works directly in your browser.
 | Creatinine                | mg/dl               |
 | Total Cholesterol         | mg/dl               |
 | Triglycerides             | mg/dl               |
-| Blood Urea Nitrogen (BUN)| mg/dl               |
+| Blood Urea Nitrogen (BUN)| mg/dl                |
 | Platelets                 | 10⁹/L               |
-| Mean Corpuscular Volume (MCV) | fl             |
+| Mean Corpuscular Volume (MCV) | fl              |
 | White Blood Cell (WBC)    | 10⁹/L               |
+| Waist                     | cm                  |
+| Body Mass Index           | kg/m2               |
+| Weight                    | Kg                  |
+| Gender                    | Male(1)/Female(2)   |
 
 ---
 
@@ -52,8 +55,3 @@ No installation needed — works directly in your browser.
   - Predicted BA
   - Age group percentile
   - Transparent density plot of BA distribution with user's BA highlighted
-
----
-
-## 📁 Project Structure
-
