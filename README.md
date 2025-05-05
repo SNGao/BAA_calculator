@@ -58,6 +58,6 @@ No installation needed — works directly in your browser.
 
 
 ## Related Reference
-[1]Yang Q, Gao S, Lin J, Lyu K, Wu Z, Chen Y, Qiu Y, Zhao Y, Wang W, Lin T, Pan H, Chen M. A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model. BMC Bioinformatics. 2022 Oct 3;23(1):411. doi: 10.1186/s12859-022-04966-7. PMID: 36192681; PMCID: PMC9528174.
+[1]Yang Q*, Gao S*, Lin J, Lyu K, Wu Z, Chen Y, Qiu Y, Zhao Y, Wang W, Lin T, Pan H, Chen M. A machine learning-based data mining in medical examination data: a biological features-based biological age prediction model. BMC Bioinformatics. 2022 Oct 3;23(1):411. doi: 10.1186/s12859-022-04966-7. PMID: 36192681; PMCID: PMC9528174.
 
 [2]Gao S, Deng H, Wen S, Wang Y. Effects of accelerated biological age on depressive symptoms in a causal reasoning framework. J Affect Disord. 2023 Oct 15;339:732-741. doi: 10.1016/j.jad.2023.07.019. Epub 2023 Jul 11. PMID: 37442448.
