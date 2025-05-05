@@ -1,6 +1,6 @@
 # 🧬 Biological Age Predictor
 
-**Author: **Sunan Gao, Siyu Zou
+**Author**: Sunan Gao, Siyu Zou
 
 [![Streamlit App](https://img.shields.io/badge/Launch%20App-Streamlit-brightgreen)](https://ba-calculator.streamlit.app/)
 
